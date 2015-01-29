@@ -7,7 +7,7 @@ import org.arnoldc.ast._
 class ArnoldParser extends Parser {
 
 
-  val ParseError = "WHAT THE FUCK DID I DO WRONG"
+  val ParseError = "BEN NEREDE YANLIS YAPTIM"
 
   val DeclareInt = "HEY CHRISTMAS TREE"
   val SetInitialValue = "YOU SET US UP"
@@ -17,11 +17,11 @@ class ArnoldParser extends Parser {
   val MultiplicationOperator = "YOU'RE FIRED"
   val DivisionOperator = "HE HAD TO SPLIT"
   val EndMain = "YOU HAVE BEEN TERMINATED"
-  val Print = "TALK TO THE HAND"
+  val Print = "KULAHIMA ANLAT"
   val Read = "I WANT TO ASK YOU A BUNCH OF QUESTIONS AND I WANT TO HAVE THEM ANSWERED IMMEDIATELY"
   val AssignVariable = "GET TO THE CHOPPER"
   val SetValue = "HERE IS MY INVITATION"
-  val EndAssignVariable = "ENOUGH TALK"
+  val EndAssignVariable = "KAPA CENENI"
   val False = "I LIED"
   val True = "NO PROBLEMO"
   val EqualTo = "YOU ARE NOT YOU YOU ARE ME"
@@ -35,7 +35,7 @@ class ArnoldParser extends Parser {
   val EndWhile = "CHILL"
   val DeclareMethod = "LISTEN TO ME VERY CAREFULLY"
   val MethodArguments = "I NEED YOUR CLOTHES YOUR BOOTS AND YOUR MOTORCYCLE"
-  val Return = "I'LL BE BACK"
+  val Return = "CUMAYA GITTIM DONUCEM"
   val EndMethodDeclaration = "HASTA LA VISTA, BABY"
   val CallMethod = "DO IT NOW"
   val NonVoidMethod = "GIVE THESE PEOPLE AIR"
